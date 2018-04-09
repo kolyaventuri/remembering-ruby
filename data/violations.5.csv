@@ -1,0 +1,6 @@
+violation_id,inspection_id,violation_category,violation_date,violation_date_closed,violation_type
+204851,261019,Garbage and Refuse,2012-01-02 00:00:00,2012-02-02 00:00:00,Refuse Accumulation
+204853,261023,Garbage and Refuse,2012-01-05 00:00:00,2012-01-17 00:00:00,Refuse Accumulation
+204854,261023,Garbage and Refuse,2012-01-03 00:00:00,2012-01-17 00:00:00,Inadequate Pest Exclusion
+204858,261029,Garbage and Refuse,2012-01-03 00:00:00,2012-03-12 00:00:00,Overgrown Vegetation
+204859,261030,Garbage and Refuse,2012-01-04 00:00:00,2012-01-17 00:00:00,Overgrown Vegetation
